@@ -10,7 +10,7 @@ function Login() {
         if (inputvalue === "รักเด็ก") {
             Swal.fire({
                 icon: "success",
-                title: "เย้ เข้าได้แล้ววว",
+                title: "เด็กก็รักพี่นะค๊าบบบ",
                 text: "❤️ยินดีต้อนรับค๊าบหวานใจ❤️",
                 timer: 1500, // แสดง alert 1 วิ
                 showConfirmButton: false,
