@@ -31,7 +31,7 @@ function Home() {
                                 </h1>
 
                             </div>
-                            <p className='text-9xl mt-6'>&#128145;</p>
+                            <p className='text-9xl mt-6'>&#128151;</p>
                         </>
                     )}
                 </div>
